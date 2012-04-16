@@ -1,4 +1,4 @@
-This example application is to demonstrate Rails issue [#4480](https://gist.github.com/rails/rails/issues/4880).
+This example application is to demonstrate Rails issue {#4480}[https://gist.github.com/rails/rails/issues/4880]
 
 Run the following command from the terminal:
 
